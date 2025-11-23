@@ -1,4 +1,4 @@
-# Tarik Dergham
+# tarek dorgam
 
 ### 🚀 AI Engineer (In Training) | Machine Learning & Deep Learning Enthusiast
 
@@ -9,25 +9,13 @@
 </div>
 
 ---
-
-## 🎧 Coding & Vibing
-
-<details>
-<summary><strong>Currently vibing to:</strong></summary>
-<br>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</details>
-
----
-
+ 
 ## 👨‍💻 About Me
 
 * 🧠 مهندس ذكاء اصطناعي في مرحلة الدراسة — باشتغل على مشاريع **Machine Learning**, **Deep Learning**, و **Computer Vision**.
 * 🐧 بحب أشتغل على **Linux** وجرّبت توزيعات كتير.
 * 💬 اسألني عن: **AI**, **PC Building**, **Tech**, **Movies**, أو أي حاجة.
-* 📫 تقدر تكلمني على تيليجرام: [Tarik](https://t.me/)
+* 📫 تقدر تكلمني على تيليجرام: [tarek dorgam](https://t.me/)
 
 ---
 
