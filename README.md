@@ -13,9 +13,10 @@
 ## 👨‍💻 About Me
 
 * 🧠 مهندس ذكاء اصطناعي في مرحلة الدراسة — باشتغل على مشاريع **Machine Learning**, **Deep Learning**, و **Computer Vision**.
-* 🐧 بحب أشتغل على **Linux** وجرّبت توزيعات كتير.
+* عندي خلفية قوية ف Linear Algebra ,Calculus , Probability & Statistics , Discrete Mathematics
 * 💬 اسألني عن: **AI**, **PC Building**, **Tech**, **Movies**, أو أي حاجة.
-* 📫 تقدر تكلمني على تيليجرام: [tarek dorgam](https://t.me/)
+* 📫 تقدر تكلمني على تيليجرام:  [Telegram](t.me/tarek dorgam)
+ ](https://t.me/)
 
 ---
 
@@ -30,15 +31,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat\&logo=jupyter\&logoColor=white)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat\&logo=javascript\&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-
+   
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visualstudiocode\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-
+ 
 ---
 
 ## 📊 GitHub Stats
