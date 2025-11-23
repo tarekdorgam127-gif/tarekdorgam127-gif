@@ -15,7 +15,7 @@
 * 🧠 مهندس ذكاء اصطناعي في مرحلة الدراسة — باشتغل على مشاريع **Machine Learning**, **Deep Learning**, و **Computer Vision**.
 * عندي خلفية قوية ف Linear Algebra ,Calculus , Probability & Statistics , Discrete Mathematics
 * 💬 اسألني عن: **AI**, **PC Building**, **Tech**, **Movies**, أو أي حاجة.
-* 📫 تقدر تكلمني على تيليجرام:  [[Telegram]( https://t.me/tarek dorgam
+* 📫 تقدر تكلمني على تيليجرام:  [[Telegram]( https://t.me/tarekdorgam
 )]
  
 ---
